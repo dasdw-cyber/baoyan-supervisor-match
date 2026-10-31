@@ -88,7 +88,7 @@
 
 ## 与其他 Skill 衔接
 
-**个人项目整理 → 按学校筛选导师 → 针对选定导师撰写自荐信**
+**[个人项目整理](https://github.com/dasdw-cyber/project-experience-coach) → 按学校筛选导师 → [针对选定导师撰写自荐信](https://github.com/dasdw-cyber/baoyan-outreach-letter)**
 
 上游的完整项目整理可直接作为输入。选定导师后，自荐信 Skill 可以承接本报告中的导师资料、已选论文、个人贡献与联系理由。
 
