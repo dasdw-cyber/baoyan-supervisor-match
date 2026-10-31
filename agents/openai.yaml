@@ -1,0 +1,4 @@
+interface:
+  display_name: "按学校筛选保研导师"
+  short_description: "先确定学校，结合意向方向或个人项目筛选导师与相关论文，输出一份完整匹配报告"
+  default_prompt: "请使用 $baoyan-supervisor-match，先确定我想申请的学校，再结合我的意向方向或已有项目材料筛选导师和相关论文，说明匹配依据与差距，形成一份可供后续自荐信使用的完整报告。"
